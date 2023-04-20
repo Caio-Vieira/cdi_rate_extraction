@@ -13,3 +13,7 @@
 
 
 ![img_bash](https://user-images.githubusercontent.com/129814574/233262577-218c10cd-8d82-4ea9-a7ca-fa6cbede2d22.jpg)
+<br></br>
+
+![dia-10](https://user-images.githubusercontent.com/129814574/233262901-9a43deb4-ff1c-4671-9d79-192476c7cfea.png)
+
