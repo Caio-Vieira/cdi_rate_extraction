@@ -9,3 +9,7 @@
 <h2> touch cdi-grafico.py.
 <h2> python cdi-grfico.py dia-10.
 <h2> Obsevation (When creating each script, add the codes that are inside each .py file in this repository.
+<br></br>
+
+
+![img_bash](https://user-images.githubusercontent.com/129814574/233262577-218c10cd-8d82-4ea9-a7ca-fa6cbede2d22.jpg)
